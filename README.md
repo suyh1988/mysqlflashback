@@ -1,0 +1,2 @@
+# mysqlflashback
+利用binlog2sql快速生成mysql的sql语句执行记录和回滚语句
